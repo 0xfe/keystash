@@ -1,4 +1,4 @@
-module github.com/qubit-sh/keystash
+module github.com/0xfe/keystash
 
 require (
 	cloud.google.com/go v0.47.0 // indirect
