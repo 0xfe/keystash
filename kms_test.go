@@ -8,7 +8,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/qubit-sh/keystash"
+	"github.com/0xfe/keystash"
 )
 
 func XTestGKMSEncryptDecrypt(t *testing.T) {
